@@ -78,4 +78,4 @@ Background
 This dashboard extends research originally conducted as part of a collaborative NFL analytics project at Penn State University, where the core WAR methodology was developed using PFF grade data and multilevel regression. This implementation reproduces and expands that methodology using fully public play-by-play data.
 
 Author
-Eli Floss · Penn State Data Science · https://www.linkedin.com/in/elijah-legall-8aa53b261/
+Elijah Legall · Penn State Data Science · https://www.linkedin.com/in/elijah-legall-8aa53b261/
