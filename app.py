@@ -326,7 +326,7 @@ top_n = st.sidebar.slider("Show Top N Players", 10, 100, 30)
 st.sidebar.markdown("---")
 st.sidebar.markdown("""
 <small style='color:#555; font-family: IBM Plex Mono, monospace;'>
-Built by Eli<br>
+Built by Elijah Legall<br>
 Penn State Data Science<br>
 Data: nfl_data_py
 </small>
