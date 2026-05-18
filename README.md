@@ -1,6 +1,6 @@
 NFL WAR Dashboard 🏈
 A position-neutral, team-adjusted Wins Above Replacement (WAR) model for NFL skill position players — built entirely on public play-by-play data.
-Live dashboard coming soon
+![Dashboard Preview](screenshot.png)
 
 What This Is
 Most NFL analytics tools evaluate players in isolation. This model accounts for the fact that a receiver's production is partially a function of his quarterback, and a running back's yards are partly a function of his offensive line.
